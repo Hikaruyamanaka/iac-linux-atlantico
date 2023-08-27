@@ -7,7 +7,6 @@ sudo mkdir /publico
 sudo mkdir /devops
 sudo mkdir /suporte
 
-
 echo "Criando grupos..."
 
 sudo groupadd GRP_SUP
