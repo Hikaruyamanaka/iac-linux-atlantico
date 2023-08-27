@@ -42,6 +42,3 @@ sudo chmod 777 /publico
 
 
 
-
-
-
